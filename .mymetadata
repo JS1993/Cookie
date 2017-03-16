@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Day10_Cookie"
+  id="myeclipse.1482995887304"
+  context-root="/Day10_Cookie"
+  j2ee-spec="5.0"
+  archive="Day10_Cookie.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
